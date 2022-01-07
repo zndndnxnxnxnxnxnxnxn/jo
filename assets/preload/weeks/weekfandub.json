@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Super-Piss",
+			"eggman",
+			[
+				246,
+				65,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "pissin' on the moon",
+	"weekName": "weekfandub",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
