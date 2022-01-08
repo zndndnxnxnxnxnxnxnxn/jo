@@ -2,6 +2,7 @@ bf
 dad
 gf
 gf-standing
+gf-standing-scared
 spooky
 pico
 mom
