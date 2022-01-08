@@ -2,6 +2,7 @@ bf
 bf-ballistic
 faker-bf
 bf-holding-gf
+bfsad
 dad
 gf
 gf-standing
@@ -10,8 +11,6 @@ gftankman
 whittyCrazy
 meri-evil
 tankman
-GFAndCloud
-GFAndCloud2
 spooky
 pico
 mom
