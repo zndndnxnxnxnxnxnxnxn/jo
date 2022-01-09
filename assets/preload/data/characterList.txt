@@ -1,4 +1,6 @@
 bf
+blue
+tron
 bf-ballistic
 faker-bf
 bf-holding-gf
